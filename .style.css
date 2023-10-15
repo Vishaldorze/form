@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+}
+.header{
+	margin: 40px;
+	padding: 40px;
+	align-items: center;
+	box-sizing: border-box;
+	border: 20px;
+	border-color: black;
+	background-color: aqua;
+}
